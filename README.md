@@ -1,5 +1,3 @@
 # bookbot
 
-BookBot is my first project!
-
-On [Boot.dev](https://boot.dev)
+BookBot is the first guided project in Python on [Boot.dev](https://boot.dev).
